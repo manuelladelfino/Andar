@@ -1,0 +1,2 @@
+# Andar
+Correr depois parar
